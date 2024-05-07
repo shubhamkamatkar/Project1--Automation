@@ -1,5 +1,5 @@
 API Rest Assured based project.
-This Project is based on Rest assured with Cucumber BDD Project.
+This Project is based on Rest assured with Cucumber BDD approach.
 Generally We are Automating API using Rest Assured framework.
 We Added Rest Assured Dependenices such as: 
 Json Path
